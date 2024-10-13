@@ -1,0 +1,24 @@
+{
+  "name": "server_learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm run --build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/StepanPetei/server_learn.git"
+  },
+  "keywords": [
+    "learning",
+    "server",
+    "development"
+  ],
+  "author": "Stepan Petei",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/StepanPetei/server_learn/issues"
+  },
+  "homepage": "https://github.com/StepanPetei/server_learn#readme"
+}
